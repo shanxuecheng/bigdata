@@ -29,7 +29,7 @@
 	<properties>
 		<javaVersion>1.7</javaVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<kylin.version>1.0-incubating</kylin.version>
+		<kylin.version>1.2</kylin.version>
 		<hadoop2.version>2.6.0</hadoop2.version>
 		<jline.version>0.9.94</jline.version>
 		<commons-httpclient.version>3.1</commons-httpclient.version>
